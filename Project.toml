@@ -1,4 +1,7 @@
 name = "Example"
+uuid = "83d67afb-f5e6-44e2-a020-c3df124be07f"
+authors = ["Mariah A. Knowles"]
+version = "0.0.0"
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
